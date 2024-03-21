@@ -1,0 +1,63 @@
+﻿original order,banda_var,ndar_var,Transform for subscale within NDA,Subscale,Notes
+1,masq1,wn12,None,masq2_score_gdd,
+2,masq2,masq_02,add 1,masq2_score_aa,
+3,masq3,poms038,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+4,masq4,afraid,add 1,masq2_score_gd,
+5,masq5,idas_40,None,masq2_score_gdd,
+6,masq6,shakyhnd,add 1,masq2_score_aa,
+7,masq7,masq_09,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+8,masq8,masq_diar,add 1,masq2_score_gd,
+9,masq9,masq_04,add 1,masq2_score_gdd,
+10,masq10,masq_06,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+11,masq11,masq_nerv,add 1,masq2_score_gd,
+12,masq12,idas_8,None,masq2_score_gdd,
+13,masq13,masq_21,add 1,masq2_score_aa,
+14,masq14,masq_un,add 1,masq2_score_gd,
+15,masq15,idas_10,reverse,masq2_score_ad,6 - item score
+16,masq16,lumpthrt,add 1,masq2_score_gd,
+17,masq17,masq_faint,add 1,masq2_score_aa,
+18,masq18,masq90_q86,add 1,masq2_score_ad,
+19,masq19,masq_20,add 1,masq2_score_aa,
+20,masq20,bsil23,add 1,masq2_score_gd,
+21,masq21,masq62_21,None,masq2_score_gdd,
+22,masq22,masq_11,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+23,masq23,masq_12,add 1,masq2_score_gdd,
+24,masq24,sweaty,add 1,masq2_score_aa,
+25,masq25,impac_q9,None,masq2_score_ad,
+26,masq26,masq_onedge,add 1,masq2_score_gd,
+27,masq27,masq_d30_26,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+28,masq28,masq_15,add 1,masq2_score_aa,
+29,masq29,masq_23,add 1,masq2_score_gdd,
+30,masq30,masq_30,add 1,masq2_score_aa,
+31,masq31,masq90_q23,add 1,masq2_score_gdd,
+32,masq32,relax,add 1,masq2_score_gd,
+33,masq33,scl14,convert from string,masq2_score_ad,"translate string = 1::5 scale, then should be correct"
+34,masq34,atq_b_10d,None,masq2_score_gdd,
+35,masq35,masq_05,add 1,masq2_score_gd,
+36,masq36,masq_10,add 1,masq2_score_gdd,
+37,masq37,masq_08,add 1,masq2_score_aa,
+38,masq38,fatexp45,None,masq2_score_gdd,
+39,masq39,masq_22,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+40,masq40,masq_18,add 1,masq2_score_aa,
+41,masq41,masq90_q10,add 1,masq2_score_ad,
+42,masq42,masq_chok,add 1,masq2_score_aa,
+43,masq43,idas_27,reverse,masq2_score_ad,6 - item score
+44,masq44,twitch,add 1,masq2_score_aa,
+45,masq45,masq_17,add 1,masq2_score_gdd,
+46,masq46,masq_dm,add 1,masq2_score_aa,
+47,masq47,idas_59,reverse,masq2_score_ad,6 - item score
+48,masq48,masq_afr2die,add 1,masq2_score_aa,
+49,masq49,masq_14,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+50,masq50,masq90_q71,add 1,masq2_score_ad,
+51,masq51,masq90_q35,add 1,masq2_score_ad,
+52,masq52,masq_27,add 1,masq2_score_aa,
+53,masq53,masq_16,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+54,masq54,bsil33,add 1,masq2_score_aa,
+55,masq55,bsil38,add 1,masq2_score_gd,
+56,masq56,idas_50,reverse,masq2_score_ad,6 - item score
+57,masq57,pclc_9,add 1,masq2_score_ad,
+58,masq58,masq90_q32,"add 1, reverse",masq2_score_ad,
+59,masq59,masq_24,add 1,masq2_score_gd,
+60,masq60,masq_29,"add 1, reverse",masq2_score_ad,6 - (item score + 1)
+61,masq61,baseline_h_017,add 1,masq2_score_ad,
+62,masq62,frequri,add 1,masq2_score_aa,
