@@ -7,7 +7,7 @@ BANDA v1.1 Data Release Doumentation
 5. BANDA v1.1 Completeness: .csv with information on missing data
 6. BANDA v1.1 Masq Summary Key: .csv with information on conversion of masq items into NDA elements
 
-Refers to BANDA-NDA release v1.1, doi: 10.15154/3tk5-pb47
+Refers to BANDA-NDA release v1.1, https://dx.doi.org/10.15154/3tk5-pb47
 
 Orignated from Connectomes Coordination Facility, see:
 https://www.humanconnectome.org/study/connectomes-related-anxiety-depression/document/banda-release-11
