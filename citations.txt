@@ -8,7 +8,7 @@ BANDA Data Descriptions and Technical Validations:
 
 * Hubbard, N.A., Bauer, C.C.C., Siless, V., Auerbach, R.P., Elam, J.S., Frosch, I.R., Henin, A., Hofmann, S.G., Hodge, M.R., Jones, R., Lenzini, P., Lo, N., Park, A.T., 
 	Pizzagalli, D.A., Vaz-DeSouza, F., Gabrieli, J.D.E., Whitfield-Gabrieli, S., Yendiki, A., & Gosh, S. 
-	BANDA the Human Connectome Project of Adolescent Anxiety and Depression.
+	The Human Connectome Project of adolescent anxiety and depression dataset. (2024). Scientific Data.
 
 		- Descriptions of the entire dataset and technical validations of imaging and non-imaging data from the final sample (full NDA release data: N = 215)
 
